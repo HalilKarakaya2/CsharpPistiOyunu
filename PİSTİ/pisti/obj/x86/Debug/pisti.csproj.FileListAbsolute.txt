@@ -1,0 +1,42 @@
+c:\users\taa\documents\visual studio 2010\Projects\pisti\pisti\obj\x86\Debug\pisti.Form1.resources
+c:\users\taa\documents\visual studio 2010\Projects\pisti\pisti\obj\x86\Debug\pisti.Properties.Resources.resources
+c:\users\taa\documents\visual studio 2010\Projects\pisti\pisti\obj\x86\Debug\pisti.csproj.GenerateResource.Cache
+c:\users\taa\documents\visual studio 2010\Projects\pisti\pisti\bin\Debug\pisti.exe
+c:\users\taa\documents\visual studio 2010\Projects\pisti\pisti\bin\Debug\pisti.pdb
+c:\users\taa\documents\visual studio 2010\Projects\pisti\pisti\obj\x86\Debug\pisti.exe
+c:\users\taa\documents\visual studio 2010\Projects\pisti\pisti\obj\x86\Debug\pisti.pdb
+C:\Users\taa\Documents\Visual Studio 2010\Projects\pisti\pisti\obj\x86\Debug\pisti.csprojResolveAssemblyReference.cache
+C:\Users\taa\Documents\Visual Studio 2010\Projects\pisti\pisti\obj\x86\Debug\pisti.Son.resources
+C:\Users\taa\Documents\Visual Studio 2010\Projects\pisti\pisti\obj\x86\Debug\pisti.giris.resources
+C:\Users\halil\Desktop\pisti\pisti\bin\Debug\pisti.exe
+C:\Users\halil\Desktop\pisti\pisti\bin\Debug\pisti.pdb
+C:\Users\halil\Desktop\pisti\pisti\obj\x86\Debug\pisti.csproj.AssemblyReference.cache
+C:\Users\halil\Desktop\pisti\pisti\obj\x86\Debug\pisti.Form1.resources
+C:\Users\halil\Desktop\pisti\pisti\obj\x86\Debug\pisti.giris.resources
+C:\Users\halil\Desktop\pisti\pisti\obj\x86\Debug\pisti.Properties.Resources.resources
+C:\Users\halil\Desktop\pisti\pisti\obj\x86\Debug\pisti.Son.resources
+C:\Users\halil\Desktop\pisti\pisti\obj\x86\Debug\pisti.csproj.GenerateResource.cache
+C:\Users\halil\Desktop\pisti\pisti\obj\x86\Debug\pisti.csproj.CoreCompileInputs.cache
+C:\Users\halil\Desktop\pisti\pisti\obj\x86\Debug\pisti.exe
+C:\Users\halil\Desktop\pisti\pisti\obj\x86\Debug\pisti.pdb
+C:\Users\halil\Desktop\pisti\pisti\obj\x86\Debug\pisti.Form2.resources
+C:\Users\halil\Desktop\pisti\pisti\obj\x86\Debug\pisti.Rutbeler.resources
+C:\Users\halil\Desktop\pisti\pisti\bin\Debug\agq-CM\pisti.resources.dll
+C:\Users\halil\Desktop\pisti\pisti\obj\x86\Debug\pisti.Rutbeler.agq-CM.resources
+C:\Users\halil\Desktop\pisti\pisti\obj\x86\Debug\agq-CM\pisti.resources.dll
+C:\Users\goktu\OneDrive\Masaüstü\yeni pişti\pisti\pisti\bin\Debug\pisti.exe
+C:\Users\goktu\OneDrive\Masaüstü\yeni pişti\pisti\pisti\bin\Debug\pisti.pdb
+C:\Users\goktu\OneDrive\Masaüstü\yeni pişti\pisti\pisti\bin\Debug\agq-CM\pisti.resources.dll
+C:\Users\goktu\OneDrive\Masaüstü\yeni pişti\pisti\pisti\obj\x86\Debug\pisti.csproj.AssemblyReference.cache
+C:\Users\goktu\OneDrive\Masaüstü\yeni pişti\pisti\pisti\obj\x86\Debug\pisti.Form1.resources
+C:\Users\goktu\OneDrive\Masaüstü\yeni pişti\pisti\pisti\obj\x86\Debug\pisti.Form2.resources
+C:\Users\goktu\OneDrive\Masaüstü\yeni pişti\pisti\pisti\obj\x86\Debug\pisti.giris.resources
+C:\Users\goktu\OneDrive\Masaüstü\yeni pişti\pisti\pisti\obj\x86\Debug\pisti.Properties.Resources.resources
+C:\Users\goktu\OneDrive\Masaüstü\yeni pişti\pisti\pisti\obj\x86\Debug\pisti.Rutbeler.resources
+C:\Users\goktu\OneDrive\Masaüstü\yeni pişti\pisti\pisti\obj\x86\Debug\pisti.Son.resources
+C:\Users\goktu\OneDrive\Masaüstü\yeni pişti\pisti\pisti\obj\x86\Debug\pisti.Rutbeler.agq-CM.resources
+C:\Users\goktu\OneDrive\Masaüstü\yeni pişti\pisti\pisti\obj\x86\Debug\pisti.csproj.GenerateResource.cache
+C:\Users\goktu\OneDrive\Masaüstü\yeni pişti\pisti\pisti\obj\x86\Debug\pisti.csproj.CoreCompileInputs.cache
+C:\Users\goktu\OneDrive\Masaüstü\yeni pişti\pisti\pisti\obj\x86\Debug\agq-CM\pisti.resources.dll
+C:\Users\goktu\OneDrive\Masaüstü\yeni pişti\pisti\pisti\obj\x86\Debug\pisti.exe
+C:\Users\goktu\OneDrive\Masaüstü\yeni pişti\pisti\pisti\obj\x86\Debug\pisti.pdb

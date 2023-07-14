@@ -1,0 +1,47 @@
+﻿
+
+10 adımda oyunlaştırma kuralı  :
+
+1-HEDEF BELİRLEME:
+Oyun Başladıgında kullanıcıdan, seçilen bölümde rakipden daha yüksek puan alması gerekmektedir.
+
+2-KURALLAR & KARTLAR:
+Sinek,Maça,Kupa,Karo,Kupa Papazı,Maça Kızı,Kupa Kızı ,Joker(Atılan Kartların Hepsini almanızı sağlar). 
+Bu Kartlar arasında puan veren kartlar şunlardır:
+Pişti: Yerde hiç kağıt yokken rakibiniz yere bir kağıt attığında, siz bu kağıtla aynı olan bir kağıdı yere atarsanız pişti yapmış olursunuz.
+
+3-OYUN ALANI : 
+Oyun masasında iki oyuncununda 4 adet kartı bulunmaktadır sıra ile atılan kartlar tur sonuna kadar bir kişi tarafından alınmazsa desteden kart dağıtılıp devam edilir
+Masanın sağında 52 adetlik bir deste bulunmaktadır.Bu adet tükenene kadar oyunculara kart dağıtımı devam eder.
+
+4-PUANLAMA:
+vale,as >1 puan
+sinek 2 >2 puan
+karo 10 >3 puan
+joker  >1 puan
+pişti <10 puan
+
+5-STRATEJİ & TAKTİKLER: 
+Oyun başından itibaren atılan kartların takibi çok önemlidir çünkü daha önce atılmayan kartı atarsanız rakibin elinde o atılmayan kartın olma olasılığı daha yüksektir.
+Aksine daha önce atılan kartı atar iseniz rakibin elinde olma olasılığı daha düşüktür.
+Bu nedenle oyununuza göre atılan veya atılmayan kartları tespit edip ona göre bir strateji belirleyebilrsiniz.
+
+6-KART İMKANLARI:
+Kartların kendine göre puan durumu vardır as kartı ile pişti yapılması 20 puan verir ve oyun için önemli bir puandır .
+Joker kartı'da önemli kartlardan biridir ortadaki kartları son kart ne olursa olsun almanızı sağlar oyunun en stratejik 2 kartı diyebiliriz
+
+7-BÖLÜMLER:
+Oyunumuzda 5 adet zorluk bulunmaktadır (acemi,kolay,orta,zor,usta) bu bölümler kişinin isteğine ve oyun bilgisine göre seçilebilir ilk girildiğinde oyuncunun zorlanmaması amacı ile acemi seviyesi ile başlaması tavsiye edilir
+
+8-REKABET:
+Kişilerin elindeki kartları teker teker ortaya atılarak birikmesi ve bir tarafın elinde tur sonuna kadar joker kartını saklaması rekabeti ve iki ataraf arasında gerginliği artmasına sebep olur.
+
+9-OYUNCU İLERLEMESİ:
+Kullanıcıyı oyuna teşvik etmek amacı ile kullanıcı puan durumunu karşı rakipten üstün tuttuğu sürece ve bu şekilde eli kazandığında kişiye rütbe atanacakatır eğer mağlup gelirse bu rütbe düşürülecektir
+
+10-OYUNUN SONLANDIRILMASI:
+Oyuncuların kartları tamamen bittiyse veya oyunun sonuçlandığı başka bir durum varsa, oyun sonlandırılır.
+En yüksek puana sahip olan taraf oyunu kazanır.
+
+
+
